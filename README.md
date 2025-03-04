@@ -1,2 +1,3 @@
 # Gitdemo1
-yo bro how are you raghu
+thid is my first experiment
+author Rakesh
